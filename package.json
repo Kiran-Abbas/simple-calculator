@@ -1,0 +1,19 @@
+{
+  "name": "k3na3s-simple-calculator",
+  "version": "1.0.1",
+  "description": "\"A simple calculator with TypeScript, Node.js and Inquirer\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
